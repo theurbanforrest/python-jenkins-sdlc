@@ -1,0 +1,10 @@
+flake8
+slacker
+setuptools
+wheel
+databricks-cli
+pytest
+findspark
+pandas
+matplotlib
+tabulate==0.8.6
