@@ -1,3 +1,3 @@
 cd tmp/fching_utils/
-python fching/setup.py install
-python fching/setup.py clean --all
+python setup.py install
+python setup.py clean --all
